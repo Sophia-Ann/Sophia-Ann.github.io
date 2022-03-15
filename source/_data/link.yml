@@ -1,0 +1,43 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: 菜菜
+      link: https://www.noname0519.com
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=962705186&s=640
+      descr: 又帅又厉害的小王子
+    2:
+      name: 俐俐
+      link: https://cruxssssss.github.io/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1223026167&s=640
+      descr: 可可爱爱喜欢游戏的小姐姐
+    3:
+      name: 书鱼
+      link: https://kit4y.github.io/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=381382770&s=640
+      descr: 特别特别厉害的师傅
+    4:
+      name: 曹师傅
+      link: https://hitworld.github.io/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=543546992&s=640
+      descr: 特别特别厉害的师傅
+    5:
+      name: 嘉木
+      link: https://wood1314.github.io/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=466283115&s=640
+      descr: 幽默温柔还厉害的pwn师傅
+    6:
+      name: 四火
+      link: https://desperadoccy.xyz/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=527707607&s=640
+      descr: 很厉害的web师傅
+    7:
+      name: zyf大佬
+      link: https://cooook.github.io/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=372350957&s=640
+      descr: 算法666的pwn师傅
+    8:
+       name: Miao tony
+       link: https://miaotony.xyz/
+       avatar: https://q1.qlogo.cn/g?b=qq&nk=584826036&s=640
+       descr: 仰望星空，脚踏实地，未来可期（大佬）

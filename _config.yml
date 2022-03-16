@@ -99,6 +99,6 @@ theme: Butterfly
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: 'http:github.com/Sophia-Ann/Sophia-Ann.github.io'
+  repo: 'http://github.com/Sophia-Ann/Sophia-Ann.github.io'
   branch: [master]
   
